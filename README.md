@@ -16,6 +16,9 @@ Funcionamento: Chat para resolver problemas da DTI (DIvisão da Tecnologia de In
 
 Fluxograma do FurBot:
 
+![grafico](https://github.com/laheinzen/FurBot/blob/master/docs/fluxograma.jpg)
+
+
 --------------------------------------
 
 Estatisticas do Furbot retiradas do IBM Watson:
