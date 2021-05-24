@@ -5,7 +5,7 @@ Alunos: Anderson Luis Vinente Rotta
         Luiz Angelo Heinzen
         
 Trabalho desenvolvido no IBM Watson
-Para ter acesso ao chatbot FurBot, acesse o site: " "
+Para ter acesso ao chatbot FurBot, acesse o site: https://laheinzen.github.io/FurBot/Chat.html 
 
 Funcionamento: Chat para resolver problemas da DTI (DIvisão da Tecnologia de Informação) da Furb - Fundação Universidade Regional de Blumenau, tais como:
 
