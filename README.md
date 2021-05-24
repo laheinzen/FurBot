@@ -24,8 +24,9 @@ EStatisticas do Furbot retiradas do IBM Watson:
 ![grafico](https://laheinzen.github.io/FurBot/atividade%20de%20users.jpg)
 
 
-*Conversão por Usuario:*
+
 ![grafico](https://github.com/laheinzen/FurBot/blob/master/docs/conversas%C3%A3o%20por%20usuario.jpg)
+*Conversão por Usuario:*
 
 *:*
 ![grafico](https://laheinzen.github.io/FurBot/)
