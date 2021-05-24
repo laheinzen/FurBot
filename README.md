@@ -29,6 +29,7 @@ EStatisticas do Furbot retiradas do IBM Watson:
 
 
 **Total de cobertura no entendimento das mensgaens:**
+
 ![grafico](https://laheinzen.github.io/FurBot/atividade%20de%20users.jpg)
 
 *:*
