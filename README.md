@@ -24,4 +24,8 @@ EStatisticas do Furbot retiradas do IBM Watson:
 ![grafico](https://laheinzen.github.io/FurBot/atividade%20de%20users.jpg)
 
 
+*Atividades de usuarios:*
+![grafico](https://laheinzen.github.io/FurBot/atividade de users.jpg)
+
+
 ---------------------------------------------
