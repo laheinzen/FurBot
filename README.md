@@ -23,5 +23,5 @@ EStatisticas do Furbot retiradas do IBM Watson:
 *Total de cobertura no entendimento das mensgaens:*
 ![grafico](https://laheinzen.github.io/FurBot/atividade%20de%20users.jpg)
 
-![Fluxograma do chatebot](https://github.com/lobokoch/chatbot/blob/main/chatbot_fluxo.png?raw=true)
+
 ---------------------------------------------
