@@ -20,12 +20,21 @@ Fluxograma do FurBot:
 
 EStatisticas do Furbot retiradas do IBM Watson:
 
-*Total de cobertura no entendimento das mensgaens:*
+*Atividades de usuarios:*
 ![grafico](https://laheinzen.github.io/FurBot/atividade%20de%20users.jpg)
 
 
-*Atividades de usuarios:*
-![grafico](https://laheinzen.github.io/FurBot/atividade de users.jpg)
+*Conversão por Usuario:*
+![grafico](https://github.com/laheinzen/FurBot/blob/master/docs/conversas%C3%A3o%20por%20usuario.jpg)
+
+*:*
+![grafico](https://laheinzen.github.io/FurBot/)
+
+*:*
+![grafico](https://laheinzen.github.io/FurBot/)
+
+*:*
+![grafico](https://laheinzen.github.io/FurBot/)
 
 
 ---------------------------------------------
