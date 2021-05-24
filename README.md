@@ -20,26 +20,36 @@ Fluxograma do FurBot:
 
 EStatisticas do Furbot retiradas do IBM Watson:
 
-**Atividades de usuarios:**
-![grafico]()
-
-
 **Conversão por Usuario:**
+
 ![grafico](https://github.com/laheinzen/FurBot/blob/master/docs/conversas%C3%A3o%20por%20usuario.jpg)
 
 
-**Total de cobertura no entendimento das mensgaens:**
+**Atividades de usuarios:**
 
 ![grafico](https://laheinzen.github.io/FurBot/atividade%20de%20users.jpg)
 
-*:*
-![grafico](https://laheinzen.github.io/FurBot/)
+*Grafico - total de conversação:*
 
-*:*
-![grafico](https://laheinzen.github.io/FurBot/)
+![grafico](https://github.com/laheinzen/FurBot/blob/master/docs/grafico-total%20de%20conversa%C3%A7%C3%B5es.jpg)
 
-*:*
-![grafico](https://laheinzen.github.io/FurBot/)
+*Mensagens por conversas:*
 
+![grafico](https://github.com/laheinzen/FurBot/blob/master/docs/msg%20por%20conversas.jpg)
 
+*Top Entity:*
+
+![grafico](https://github.com/laheinzen/FurBot/blob/master/docs/top%20entity.jpg)
+
+*Top Intents:*
+
+![grafico](https://github.com/laheinzen/FurBot/blob/master/docs/top%20intents.jpg)
+
+*Total de conversas:*
+
+![grafico](https://github.com/laheinzen/FurBot/blob/master/docs/total%20de%20conversa%C3%A7%C3%B5es.jpg)
+
+*Total de conversas:*
+
+![grafico](https://github.com/laheinzen/FurBot/blob/master/docs/total%20de%20mensagens.jpg)
 ---------------------------------------------
