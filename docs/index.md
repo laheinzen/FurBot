@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Para iniciar o chat, clique [aqui](https://github.com/laheinzen/FurBot/edit/master/docs/Chat.html) e depois clique no ícone do Watson!
+Para iniciar o chat, clique [aqui](https://github.com/laheinzen/FurBot/docs/Chat.html) e depois clique no ícone do Watson!
 
 You can use the [editor on GitHub](https://github.com/laheinzen/FurBot/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
