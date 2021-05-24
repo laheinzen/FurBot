@@ -20,4 +20,6 @@ Fluxograma do FurBot:
 
 EStatisticas do Furbot retiradas do IBM Watson:
 
+https://github.com/laheinzen/FurBot/blob/master/docs/atividade%20de%20users.jpg
+
 ---------------------------------------------
