@@ -1,0 +1,1372 @@
+{
+  "intents": [
+    {
+      "intent": "adobe_creative_cloud",
+      "examples": [
+        {
+          "text": "acrobat db"
+        },
+        {
+          "text": "adobe"
+        },
+        {
+          "text": "illustrator"
+        },
+        {
+          "text": "indesign"
+        },
+        {
+          "text": "photoshop"
+        },
+        {
+          "text": "premiere pro"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "atendimento_finalizado",
+      "examples": [
+        {
+          "text": "atendimento finalizado"
+        },
+        {
+          "text": "atendimento finalizou"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "bolsa",
+      "examples": [
+        {
+          "text": "Bolsa de estudos"
+        },
+        {
+          "text": "Como consigo uma bolsa de estudos?"
+        },
+        {
+          "text": "Eu consigo estudar de graça na FURB?"
+        },
+        {
+          "text": "Queria informações sobre bolsas"
+        },
+        {
+          "text": "Vocês oferecem bolsas?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "codigo_pessoa",
+      "examples": [
+        {
+          "text": "Código pessoal"
+        },
+        {
+          "text": "Esqueci meu código de pessoa"
+        },
+        {
+          "text": "Não lembro meu código de pessoa"
+        },
+        {
+          "text": "Onde encontro meu código de pessoa"
+        },
+        {
+          "text": "Qual é meu código de pessoa?"
+        },
+        {
+          "text": "Qual meu código de aluno"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "dra",
+      "examples": [
+        {
+          "text": "divisao academica"
+        },
+        {
+          "text": "divisão registro academica"
+        },
+        {
+          "text": "dra"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "esqueci_usuario",
+      "examples": [
+        {
+          "text": "Esqueci meu username"
+        },
+        {
+          "text": "Não lembro meu e-mail"
+        },
+        {
+          "text": "Qual meu username?"
+        },
+        {
+          "text": "Qual minha conta FURB?"
+        },
+        {
+          "text": "Qual o nome do meu usuário?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "financeiro",
+      "examples": [
+        {
+          "text": "Ainda não recebi o meu boleto"
+        },
+        {
+          "text": "Como eu gero um boleto?"
+        },
+        {
+          "text": "Esqueci de pagar a mensalidade"
+        },
+        {
+          "text": "Esqueci de pagar o boleto, como gero outro?"
+        },
+        {
+          "text": "financeiro"
+        },
+        {
+          "text": "Gostaria de negociar os juros"
+        },
+        {
+          "text": "Meu boleto venceu"
+        },
+        {
+          "text": "Minha mensalidade está atrasada"
+        },
+        {
+          "text": "Não paguei o boleto em dia"
+        },
+        {
+          "text": "Preciso de ajuda com minha mensalidade"
+        },
+        {
+          "text": "Preciso gerar um boleto novo"
+        },
+        {
+          "text": "Preciso negociar minha mensalidade"
+        },
+        {
+          "text": "Quero ajuda com minha mensalidade"
+        },
+        {
+          "text": "Quero falar sobre minha mensalidade"
+        },
+        {
+          "text": "Quero negociar minhas dívidas"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "horarios",
+      "examples": [],
+      "description": ""
+    },
+    {
+      "intent": "instalacao_office",
+      "examples": [
+        {
+          "text": "Como instalar Office pela FURB"
+        },
+        {
+          "text": "Em quantas máquinas eu posso instalar o Office?"
+        },
+        {
+          "text": "instalacao_office"
+        },
+        {
+          "text": "Onde baixo o Office?"
+        },
+        {
+          "text": "Onde faço download do Word?"
+        },
+        {
+          "text": "Posso usar o Word pela FURB?"
+        },
+        {
+          "text": "Tenho direito ao Office como aluno?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "problemas_acesso",
+      "examples": [
+        {
+          "text": "esqueci a minha senha"
+        },
+        {
+          "text": "esqueci a senha"
+        },
+        {
+          "text": "esqueci meu usuario"
+        },
+        {
+          "text": "esqueci minha senah"
+        },
+        {
+          "text": "esqueci senha"
+        },
+        {
+          "text": "esqueci usuario"
+        },
+        {
+          "text": "problemas_acesso"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "testar_webservice",
+      "examples": [
+        {
+          "text": "Chama a CloudFunction"
+        },
+        {
+          "text": "Chamar RESTApi"
+        },
+        {
+          "text": "Chamar webhook"
+        },
+        {
+          "text": "Give me an API call"
+        },
+        {
+          "text": "Quero ver a WebAPI"
+        },
+        {
+          "text": "Testar chamada WebService"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "trocar_senha",
+      "examples": [
+        {
+          "text": "esqueci meu usuario"
+        },
+        {
+          "text": "Esqueci minha senha"
+        },
+        {
+          "text": "Minha senha não funciona"
+        },
+        {
+          "text": "Minha senha não vai"
+        },
+        {
+          "text": "Mudar minha senha"
+        },
+        {
+          "text": "Não lembro minha senha"
+        },
+        {
+          "text": "Preciso trocar a senha"
+        },
+        {
+          "text": "Qual a minha senha"
+        },
+        {
+          "text": "Quero trocar a senha"
+        }
+      ],
+      "description": "Trocar senha"
+    },
+    {
+      "intent": "wifi",
+      "examples": [
+        {
+          "text": "como configuro wifi"
+        },
+        {
+          "text": "como configuro wireless"
+        },
+        {
+          "text": "tem um manual de wifi"
+        },
+        {
+          "text": "tem um manual de wireless"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "windows_10",
+      "examples": [
+        {
+          "text": "Onde encontro o Windows 10 para download?"
+        },
+        {
+          "text": "Posso instalar o Windows?"
+        },
+        {
+          "text": "Tenho direita a licença do Windows?"
+        },
+        {
+          "text": "Tenho direita a licença do Windows como aluno?"
+        },
+        {
+          "text": "Usar Windows 10 como aluno"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "abertura_chamado",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "acessa rede furb",
+          "synonyms": [
+            "rede acad",
+            "rede adm"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Acesso permissoes",
+          "synonyms": [
+            "permisao de usuario",
+            "permissao de usuario"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "crm - envio de email",
+          "synonyms": [
+            "email",
+            "email institucional",
+            "sms"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "dsv",
+          "synonyms": [
+            "deselvolvimento",
+            "desenvol"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "portal de gestão de contas",
+          "synonyms": [
+            "porta de usuario",
+            "pwm",
+            "usuario"
+          ]
+        },
+        {
+          "type": "patterns",
+          "value": "portal sharepoint",
+          "patterns": [
+            "portal",
+            "sharepoint"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sst",
+          "synonyms": [
+            "aceso sistema",
+            "acesso sistema",
+            "acesso sistema furb"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sst email",
+          "synonyms": [
+            "acesso email",
+            "email"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sst - rede",
+          "synonyms": [
+            "rede cabeada",
+            "rede wifi"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "website furb",
+          "synonyms": [
+            "furb",
+            "site",
+            "site furb"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "equipamentos",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "caixa de som",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "computador",
+          "synonyms": [
+            "pc"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "impressora",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "monitor",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "mouse",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "teclado",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "manuais",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Manual Ava",
+          "synonyms": [
+            "ava",
+            "ava 3",
+            "manual ava3"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Manual gestão de contas de usuarios",
+          "synonyms": [
+            "acesso ",
+            "acesso usuario",
+            "usuario"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Manual Guruvet",
+          "synonyms": [
+            "guru",
+            "guru vet",
+            "Guruvet",
+            "vet"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "manual office",
+          "synonyms": [
+            "office",
+            "office 365"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Manual Portal cstic",
+          "synonyms": [
+            "cstic",
+            "manual cstic"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Manual Projuris",
+          "synonyms": [
+            "projuris"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Manual Rede sem fio",
+          "synonyms": [
+            "manual wifi",
+            "manual wireless",
+            "wi-fi",
+            "wifi",
+            "wireless"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Manual sistema de matricula",
+          "synonyms": [
+            "manual matricula",
+            "matricula",
+            "sistema de matricula"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Manual sistemas Furb",
+          "synonyms": [
+            "manual sistema",
+            "oracle forms",
+            "sistema furb",
+            "sistemas furb"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Manual site de impressão",
+          "synonyms": [
+            "ci",
+            "impressão",
+            "manual ci"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Maual Diario Online",
+          "synonyms": [
+            "manual ",
+            "manual diario"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Programa de beneficios",
+          "synonyms": [
+            "autodesk",
+            "azure",
+            "beneficios",
+            "dell",
+            "jetbrains"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "problemas_acesso",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "esqueci a senha",
+          "synonyms": [
+            "esqueci senha",
+            "nao lembro a senha ",
+            "nao sei a senha",
+            "nao sei minha senha"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "esqueci usuario",
+          "synonyms": [
+            "esqueci meu usuario",
+            "esqueci qual meu usuario"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "resetar a senha",
+          "synonyms": [
+            "mudar a senha",
+            "mudar senha",
+            "resetar senha"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "resetar_senha_usuario",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "nao",
+          "synonyms": [
+            "n",
+            "não",
+            "negativo",
+            "no"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sim",
+          "synonyms": [
+            "positivo",
+            "s",
+            "si",
+            "yes"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "tipo_sistema",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "ava",
+          "synonyms": [
+            "av",
+            "ave"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "erp",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "office",
+          "synonyms": [
+            "excel",
+            "outlook",
+            "power point",
+            "word"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "oracle",
+          "synonyms": [
+            "sistema oracle"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "teams",
+          "synonyms": [
+            "team",
+            "temas",
+            "times"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "wi-fi",
+          "synonyms": [
+            "internet sem fio",
+            "rede sem fio",
+            "wifi",
+            "wireless",
+            "wirelless"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "tipo_usuario",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "aluno",
+          "synonyms": [
+            "estudante"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "professor",
+          "synonyms": [
+            "profesor"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "usuario_ativo",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "não",
+          "synonyms": [
+            "n",
+            "nao",
+            "negativo",
+            "no "
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sim",
+          "synonyms": [
+            "positivo",
+            "s",
+            "si",
+            "yes"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "usuario_bloqueado",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "não",
+          "synonyms": [
+            "n",
+            "nao",
+            "negativo",
+            "no"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sim",
+          "synonyms": [
+            "positivo",
+            "s",
+            "si",
+            "yes"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "webhooks": [
+    {
+      "url": "https://us-south.functions.cloud.ibm.com/api/v1/namespaces/lah%40furb.br_dev/actions/Username?blocking=true",
+      "name": "main_webhook",
+      "headers": [
+        {
+          "name": "Authorization",
+          "value": "Basic bGFoQGZ1cmIuYnJfZGV2OkBORDNyc29u"
+        }
+      ]
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Bem-vindo",
+      "output": {
+        "generic": [
+          {
+            "title": "Olá, bem vindo ao Assistente Virtual da Divisão de Tecnologia da Informação da FURB. Estamos aqui para te ajudar nas dúvidas relacionadas aos sistemas da FURB, AVA, Wi-fi, Teams entre outros.",
+            "options": [
+              {
+                "label": "financeiro",
+                "value": {
+                  "input": {
+                    "text": "financeiro"
+                  }
+                }
+              },
+              {
+                "label": "Dra",
+                "value": {
+                  "input": {
+                    "text": "dra"
+                  }
+                }
+              },
+              {
+                "label": "Adobe Creative Cloud",
+                "value": {
+                  "input": {
+                    "text": "adobe_creative_cloud"
+                  }
+                }
+              },
+              {
+                "label": "Instalação Office",
+                "value": {
+                  "input": {
+                    "text": "instalacao_office"
+                  }
+                }
+              },
+              {
+                "label": "Bolsa de Estudos",
+                "value": {
+                  "input": {
+                    "text": "bolsa"
+                  }
+                }
+              },
+              {
+                "label": "Wifi",
+                "value": {
+                  "input": {
+                    "text": "wifi"
+                  }
+                }
+              },
+              {
+                "label": "Windows 10",
+                "value": {
+                  "input": {
+                    "text": "windows 10"
+                  }
+                }
+              },
+              {
+                "label": "Problema de Acesso",
+                "value": {
+                  "input": {
+                    "text": "problemas_acesso"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "welcome",
+      "dialog_node": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Em outros casos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Eu não entendi. Você pode tentar reformular a frase."
+              },
+              {
+                "text": "Você pode reformular sua afirmação? Eu não estou entendendo."
+              },
+              {
+                "text": "Eu não entendi o sentido."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Em outros casos",
+      "previous_sibling": "node_5_1621748606391",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1621711964576",
+      "event_name": "focus",
+      "dialog_node": "handler_10_1621711964578",
+      "previous_sibling": "handler_4_1621711964578"
+    },
+    {
+      "type": "event_handler",
+      "parent": "node_7_1621821978015",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1621822020217"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_6_1621822020685",
+      "event_name": "focus",
+      "dialog_node": "handler_2_1621822020704",
+      "previous_sibling": "handler_3_1621822020704"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_6_1621822020685",
+      "event_name": "input",
+      "dialog_node": "handler_3_1621822020704"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_2_1621711964576",
+      "event_name": "input",
+      "dialog_node": "handler_4_1621711964578"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1621711920483",
+      "event_name": "focus",
+      "dialog_node": "handler_6_1621711920506",
+      "previous_sibling": "handler_7_1621711920506"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1621711920483",
+      "context": {
+        "abertura_chamado": "@abertura_chamado"
+      },
+      "conditions": "@abertura_chamado",
+      "event_name": "input",
+      "dialog_node": "handler_7_1621711920506"
+    },
+    {
+      "type": "standard",
+      "title": "atendimento finalizado",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "true",
+      "dialog_node": "node_5_1621748606391",
+      "previous_sibling": "node_7_1621821978015"
+    },
+    {
+      "type": "standard",
+      "actions": [
+        {
+          "name": "Chama WebService",
+          "type": "assistant_action",
+          "parameters": {},
+          "result_variable": "webservice_response",
+          "assistant_action_settings": {
+            "use_global_variables": true,
+            "lookup_action_by_title": true
+          }
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_5_1621748606391"
+      },
+      "conditions": "#testar_webservice",
+      "dialog_node": "node_7_1621821978015",
+      "previous_sibling": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "atendimento",
+      "parent": "Bem-vindo",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "true",
+      "dialog_node": "node_8_1621711880345",
+      "previous_sibling": "response_5_1621819848225"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Para dúvidas relacionadas a matrículas, documentação turmas e horários entre em contato no 47-3321 0290 (DRA)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1621711880345",
+      "conditions": "#dra",
+      "dialog_node": "response_1_1621746862870",
+      "previous_sibling": "response_5_1621711992113"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Atendimento Finalizado",
+            "options": [
+              {
+                "label": "Sim",
+                "value": {
+                  "input": {
+                    "text": "sim"
+                  }
+                }
+              },
+              {
+                "label": "Não ",
+                "value": {
+                  "input": {
+                    "text": "não"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_5_1621748606391",
+      "conditions": "#atendimento_finalizado",
+      "dialog_node": "response_1_1621748729586"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Para adquirir o windows 10, acesso o seguinte manual: http://www10.furb.br/manuais/manual-microsoft-azure.php. Navegue até a segunda opção no menu esquerdo \"Adquirindo um software\" e faça conforme mostra no manual."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1621711880345",
+      "conditions": "#windows_10",
+      "dialog_node": "response_2_1621747974209",
+      "previous_sibling": "response_3_1621747760069"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ola, envie um e-mail para software@furb.br informando seu interesse e o identificador do computador da Furb."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1621711880345",
+      "conditions": "#adobe_creative_cloud",
+      "dialog_node": "response_3_1621747260007",
+      "previous_sibling": "response_1_1621746862870"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Para acesso ao manual de wifi da furb, entre no seguinte endereço: http://www10.furb.br/manuais/manual-wifi-furb.php"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1621711880345",
+      "conditions": "#wifi",
+      "dialog_node": "response_3_1621747760069",
+      "previous_sibling": "response_8_1621747654584"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Escolha uma opção abaixo",
+            "options": [
+              {
+                "label": "Resetar a senha",
+                "value": {
+                  "input": {
+                    "text": "resetar a senha"
+                  }
+                }
+              },
+              {
+                "label": "Esqueci usuario ",
+                "value": {
+                  "input": {
+                    "text": "esqueci usuario"
+                  }
+                }
+              },
+              {
+                "label": "Esqueci a senha",
+                "value": {
+                  "input": {
+                    "text": "esqueci a senha"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_8_1621711880345",
+      "conditions": "#problemas_acesso",
+      "dialog_node": "response_4_1621822017414",
+      "previous_sibling": "response_2_1621747974209"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Para dúvidas relacionadas a mensalidades, boletos e negociação entre em contato no 47-3321 0291 (DAF)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1621711880345",
+      "conditions": "#financeiro",
+      "dialog_node": "response_5_1621711992113"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Olá, bem vindo ao Assistente Virtual da Divisão de Tecnologia da Informação da FURB. Estamos aqui para te ajudar nas dúvidas relacionadas aos sistemas da FURB, AVA, Wi-fi, Teams entre outros.",
+            "options": [
+              {
+                "label": "financeiro",
+                "value": {
+                  "input": {
+                    "text": "financeiro"
+                  }
+                }
+              },
+              {
+                "label": "Dra",
+                "value": {
+                  "input": {
+                    "text": "dra"
+                  }
+                }
+              },
+              {
+                "label": "Adobe Creative Cloud",
+                "value": {
+                  "input": {
+                    "text": "adobe_creative_cloud"
+                  }
+                }
+              },
+              {
+                "label": "Instalação Office",
+                "value": {
+                  "input": {
+                    "text": "instalacao_office"
+                  }
+                }
+              },
+              {
+                "label": "Bolda de Estudos",
+                "value": {
+                  "input": {
+                    "text": "bolsa"
+                  }
+                }
+              },
+              {
+                "label": "Wifi",
+                "value": {
+                  "input": {
+                    "text": "wifi"
+                  }
+                }
+              },
+              {
+                "label": "Windows 10",
+                "value": {
+                  "input": {
+                    "text": "windows 10"
+                  }
+                }
+              },
+              {
+                "label": "Problema de acesso ",
+                "value": {
+                  "input": {
+                    "text": "problemas_acesso"
+                  }
+                }
+              },
+              {
+                "label": "Resetar senha",
+                "value": {
+                  "input": {
+                    "text": "trocar_senha"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "Bem-vindo",
+      "disabled": true,
+      "dialog_node": "response_5_1621819848225"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hum... Não consegui achar o seu usuário."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1621821978015",
+      "conditions": "anything_else",
+      "dialog_node": "response_6_1621822020911",
+      "previous_sibling": "response_7_1621822019776"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Seu nome de usuário é: <br> <? $webservice_response.response.result.result[0] ?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1621821978015",
+      "conditions": "$webservice_response",
+      "dialog_node": "response_7_1621822019776",
+      "previous_sibling": "slot_6_1621822020685"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Para dúvidas relacionadas a matrículas, documentação, turmas e horários entre em contato no 47-3321 0290 (DRA)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1621711880345",
+      "conditions": "#bolsa",
+      "dialog_node": "response_8_1621747654584",
+      "previous_sibling": "response_9_1621747394343"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Para instalar o office 365 em um computador pessoal, acesse: https://www.office.com/, entre com o seu usuário e senha da furb e na parte superior direita terá um botão \"Instar o Office\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1621711880345",
+      "conditions": "#instalacao_office",
+      "dialog_node": "response_9_1621747394343",
+      "previous_sibling": "response_3_1621747260007"
+    },
+    {
+      "type": "slot",
+      "parent": "node_8_1621711880345",
+      "variable": "$abertura_chamado",
+      "dialog_node": "slot_10_1621711920483",
+      "previous_sibling": "response_4_1621822017414"
+    },
+    {
+      "type": "slot",
+      "parent": "node_8_1621711880345",
+      "dialog_node": "slot_2_1621711964576",
+      "previous_sibling": "slot_10_1621711920483"
+    },
+    {
+      "type": "slot",
+      "parent": "node_7_1621821978015",
+      "dialog_node": "slot_6_1621822020685",
+      "previous_sibling": "handler_1_1621822020217"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Você quis dizer:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Nenhuma das anteriores"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Você quis dizer:"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "DTI",
+  "language": "pt-br",
+  "description": ""
+}
